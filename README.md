@@ -30,7 +30,7 @@
   <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 </p>
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=dreambo8563&show_icons=true&count_private=true&theme=default&hide_border=trues&include_all_commits=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dreambo8563&layout=compact&hide_border=true&langs_count=10">
+  <img src ="https://github-readme-stats-dreambo8563.vercel.app/api?username=dreambo8563&show_icons=true&count_private=true&theme=default&hide_border=trues&include_all_commits=true">
+  <img src ="https://github-readme-stats-dreambo8563.vercel.app/api/top-langs/?username=dreambo8563&layout=compact&hide_border=true&langs_count=10">
 </p>
 
